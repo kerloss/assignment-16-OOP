@@ -8,9 +8,11 @@ namespace common
 {
     public class TypeA
     {
+        #region Attriputes
         private protected int X;    //private
         protected int Y;            //private
-        internal protected int Z;   //internal
+        internal protected int Z;   //internal 
+        #endregion
 
     }
 }
